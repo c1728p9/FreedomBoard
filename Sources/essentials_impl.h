@@ -5,7 +5,7 @@
 // macro or provide a prototype for the functions 
 // the essential module needs to implement.
 
-#define TASK_QUEUE_SIZE     10
+#define TASK_QUEUE_SIZE     40
 
 #include "interrupt.h"
 

@@ -3,7 +3,7 @@
 #include "derivative.h"
 #include "essentials.h"
 
-#define UART0_TX_BUFF_SIZE 100
+#define UART0_TX_BUFF_SIZE 4000
 uint8_t uart0_tx_buff[UART0_TX_BUFF_SIZE];
 circ_buf_t uart0_buff = 
 {
